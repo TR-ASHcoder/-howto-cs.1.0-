@@ -34,3 +34,46 @@ step four: right click and go to properties
 step five: copy the *start in* ( for ex. C:\Users\name\Documents\Half-Life )
 
 ![image](https://user-images.githubusercontent.com/90879002/152290378-a96983a5-9ab1-4018-8213-b19a2c8017df.png)
+
+
+
+step six: open *cs10steam-final.exe* ( should have downloaded from step 1 )
+
+![image](https://user-images.githubusercontent.com/90879002/152292638-ef0b2927-5f00-4b88-9ce2-5c927f054e5a.png)
+
+
+
+step seven: put start in thingy in box 
+
+![image](https://user-images.githubusercontent.com/90879002/152293433-aeba0a76-2ada-4800-9716-4ff7c9d24851.png)
+
+
+
+step eight: wait 
+
+![image](https://user-images.githubusercontent.com/90879002/152294149-636e5109-fe1d-4a7a-89e5-862eb7b162ed.png)
+
+
+
+
+_____________
+# how to play 
+
+step one: open half life 
+
+![image](https://user-images.githubusercontent.com/90879002/152294694-51acf457-9a82-42da-bfeb-24345385cd75.png)
+
+
+step two: press change game 
+
+![image](https://user-images.githubusercontent.com/90879002/152294990-e2eb852e-c260-4595-82d9-149e8891a8db.png)
+
+
+
+step three: press *Counter-Strike 1.0*
+
+![image](https://user-images.githubusercontent.com/90879002/152295411-224c6963-c1c1-4df6-9984-cb985ef72f58.png)
+
+
+
+step four: play game 
