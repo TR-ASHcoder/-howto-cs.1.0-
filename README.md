@@ -21,3 +21,16 @@ step three: extract half life file to desktop ( download winrar for easier extra
 or
 
 ![image](https://user-images.githubusercontent.com/90879002/152288996-de3ea912-c433-4f14-ae5a-8d858fe2df29.png)
+
+
+
+step four: right click and go to properties
+
+![image](https://user-images.githubusercontent.com/90879002/152289775-9ce784e0-dc00-4b6f-9217-111838b4eba4.png)
+
+
+
+
+step five: copy the *start in* ( for ex. C:\Users\name\Documents\Half-Life )
+
+![image](https://user-images.githubusercontent.com/90879002/152290378-a96983a5-9ab1-4018-8213-b19a2c8017df.png)
